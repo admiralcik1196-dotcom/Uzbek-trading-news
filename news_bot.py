@@ -23,4 +23,4 @@ response = requests.post(
 )
 response.raise_for_status()
 print("Telegram xabari yuborildi!")
-print(response.tex
+print(response.tex_)
